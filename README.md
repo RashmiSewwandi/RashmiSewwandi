@@ -11,6 +11,8 @@
 - 📫 How to reach me **rashmiswa09@gmail.com**
 - ⚡ Fun fact **I like watching movies.**
 
+<br><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RashmiSewwandi&show_icons=true&theme=gotham" alt="RashmiSewwandi | Stats" />
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rashmi-sewwandi-743420225/"><img alt="Linkedin" title="Rashmi Sewwandi Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
