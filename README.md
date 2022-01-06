@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="assets/images/se.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="assets/images/software-developer.jpg" height="175px"/></a>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Rashmi+Sewwandi;Study+@+IJSE">
 </p>
