@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Web development**
 - 📫 How to reach me **rashmiswa09@gmail.com**
 - ⚡ Fun fact **I like watching movies.**
+<br><br>
 
 ## 🔗  Languages and Tools
 <a align="center">
@@ -19,7 +20,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="git" width="40" height="40"/> </a><br><br>
 <br><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RashmiSewwandi&show_icons=true&theme=gotham" alt="RashmiSewwandi | Stats" />
 
 ## 🔗 Connect with Me
