@@ -11,3 +11,11 @@
 - 📫 How to reach me **rashmiswa09@gmail.com**
 - ⚡ Fun fact **I like watching movies.**
 
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rashmi-sewwandi-743420225/"><img alt="Linkedin" title="Rashmi Sewwandi Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href=""><img alt="Twitter" title="Rashmi Sewwandi Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:rashmiswa09@gmail.com"><img alt="Gmail" title="Rashmi Sewwandi Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/RashmiSewwandi"><img alt="Github" title="Rashmi Sewwandi Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
