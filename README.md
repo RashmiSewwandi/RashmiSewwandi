@@ -19,3 +19,6 @@
   <a href="https://github.com/RashmiSewwandi"><img alt="Github" title="Rashmi Sewwandi Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
